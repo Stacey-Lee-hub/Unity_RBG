@@ -1,7 +1,7 @@
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
-    public float speed = 6;
+    public float speed = 4;
     public int facingDirection = 1;
 
     public Rigidbody2D rb;
